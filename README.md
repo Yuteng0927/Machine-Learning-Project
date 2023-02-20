@@ -14,4 +14,13 @@ Investigation on the Chromium (Cr), Uranium (U) and Arsenic (As) contaminants le
 ![image](https://github.com/Yuteng0927/Machine-Learning-Project/blob/main/Images/PCA_2.png)
 ![image](https://github.com/Yuteng0927/Machine-Learning-Project/blob/main/Images/PCA_3.png)
 
+## Clustering
+![image](https://github.com/Yuteng0927/Machine-Learning-Project/blob/main/Images/cluster1.png)
+![image](https://github.com/Yuteng0927/Machine-Learning-Project/blob/main/Images/cluster2.png)
+![image](https://github.com/Yuteng0927/Machine-Learning-Project/blob/main/Images/cluster3.png)
+
+## Outlier Detection
+![image](https://github.com/Yuteng0927/Machine-Learning-Project/blob/main/Images/outlier1.png)
+![image](https://github.com/Yuteng0927/Machine-Learning-Project/blob/main/Images/outlier2.png)
+![image](https://github.com/Yuteng0927/Machine-Learning-Project/blob/main/Images/outlier3.png)
 
