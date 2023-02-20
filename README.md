@@ -8,3 +8,10 @@ California’s central valley is one of the most productive agricultural regions
 ## Contaminants level on the map
 Investigation on the Chromium (Cr), Uranium (U) and Arsenic (As) contaminants level on the map.
 ![image](https://github.com/Yuteng0927/Machine-Learning-Project/blob/main/Images/Contaminants%20level%20on%20the%20map.png)
+
+## PCA analysis
+![image](https://github.com/Yuteng0927/Machine-Learning-Project/blob/main/Images/PCA_1.png)
+![image](https://github.com/Yuteng0927/Machine-Learning-Project/blob/main/Images/PCA_2.png)
+![image](https://github.com/Yuteng0927/Machine-Learning-Project/blob/main/Images/PCA_3.png)
+
+
